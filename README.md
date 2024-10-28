@@ -17,7 +17,8 @@ Installation
 
 To integrate Libft into your own projects, follow these steps:
 
-    Clone the repository:
+Clone the repository:
+    
         git clone https://github.com/97OooO/libft.git
         cd libft
 
