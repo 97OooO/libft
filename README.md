@@ -55,8 +55,12 @@ Libft includes functions across several categories, as outlined below:
 
     Memory Allocation: ft_calloc, ft_strjoin, ft_substr, ft_split.
     String Manipulation: ft_strtrim, ft_itoa, ft_atoi.
+3. File I/O
 
-3. Linked List Functions
+    You'll see how to use a file, open it, adding something or write on it or read from it.
+You'll see that again in your future projects (get_next_line, miniSHELL,...).
+
+5. Linked List Functions
 
     Linked Lists: Functions to create, modify, and free linked list nodes (ft_lstnew, ft_lstadd_front, ft_lstadd_back, etc.).
 
